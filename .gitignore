@@ -1,0 +1,13 @@
+/.qodo
+/venv
+
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.mp3
+*.wav
+*.flac
+
+*.txt
