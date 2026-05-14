@@ -89,7 +89,7 @@ ffmpeg -version
   - Или установите Whisper напрямую из GitHub:
 
     ```cmd
-    pip install git+https://github.com/openai/whisper.git@v20231117
+    pip install git+https://github.com/openai/whisper.git@v20250625
     ```
 
 - Если при запуске скрипта `moviepy` выдаёт ошибки при извлечении аудио — убедитесь, что `ffmpeg` в `PATH`.

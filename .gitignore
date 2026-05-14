@@ -11,3 +11,4 @@
 *.flac
 
 *.txt
+!requirements.txt
